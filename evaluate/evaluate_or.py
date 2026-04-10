@@ -29,11 +29,9 @@ def analyze_catattack_or(folder_path):
                         results = item.get('results', [])
                         total_results += len(results)
 
-                        # entry 级 OR：看 avg_output_tokens 是否超过 2 倍
                         if problem_output_tokens > 0 and avg_output_tokens > problem_output_tokens * 2:
                             entry_or_count += 1
 
-                        # result 级 OR：仍然统计每个子问题
                         for result in results:
                             output_tokens = result.get('output_tokens', 0)
 
