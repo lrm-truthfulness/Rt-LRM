@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>🎯 Red Teaming LRM</h1>
-
-<h2><b>Red Teaming Large Reasoning Models</b></h2>
+<h1>🎯 Red Teaming Large Reasoning Models</h1>
 
 <p>
 Jiawei Chen<sup>1,3</sup>* · Yang Yang<sup>1</sup>* · Chao Yu<sup>2</sup>* · Yu Tian<sup>5</sup> · Zhi Cao<sup>3</sup> · Xue Yang<sup>4</sup> · Linghao Li<sup>1</sup> · Hang Su<sup>5</sup>† · Zhaoxia Yin<sup>1</sup>†
