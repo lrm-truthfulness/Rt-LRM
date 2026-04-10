@@ -3,17 +3,6 @@
 <h1>🎯 Red Teaming Large Reasoning Models</h1>
 
 <p>
-Jiawei Chen<sup>1,3</sup>* · Yang Yang<sup>1</sup>* · Chao Yu<sup>2</sup>* · Yu Tian<sup>5</sup> · Zhi Cao<sup>3</sup> · Xue Yang<sup>4</sup> · Linghao Li<sup>1</sup> · Hang Su<sup>5</sup>† · Zhaoxia Yin<sup>1</sup>†
-</p>
-
-<p>
-<sup>1</sup>East China Normal University · <sup>2</sup>Shenzhen International Graduate School, Tsinghua University · <sup>3</sup>Zhongguancun Academy<br>
-<sup>4</sup>Shanghai Jiao Tong University · <sup>5</sup>Dept. of Comp. Sci. and Tech., THBI Lab, Tsinghua University
-</p>
-
-<p><i>* Equal contribution &nbsp;&nbsp; † Corresponding authors</i></p>
-
-<p>
 <a href="#project-overview">🌐 Project Page</a> &nbsp;|&nbsp;
 <a href="https://arxiv.org/pdf/2512.00412">📄 Paper</a> &nbsp;|&nbsp;
 <a href="#citation">📖 Citation</a>
