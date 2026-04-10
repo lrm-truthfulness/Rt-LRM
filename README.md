@@ -14,6 +14,8 @@
 
 ## Project overview
 
+🎉 We are thrilled to share that our paper has been accepted to the ACL 2026 Main Conference.
+
 This repository provides the **official code release** accompanying *Red Teaming Large Reasoning Models* ([arXiv:2512.00412](https://arxiv.org/abs/2512.00412)). It is a **batch-inference and evaluation toolkit** for studying how large language models behave under various **prompt “attack” setups** (e.g., tampered chain-of-thought, multi-turn jailbreak-style dialogues, overthinking-style prompts).
 
 Typical workflow:
