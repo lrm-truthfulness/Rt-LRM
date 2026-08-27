@@ -191,6 +191,7 @@ python evaluate_timeout.py --attack_type catattack
 
 - Annotated JSONs: `result/validation_ASR_<attack_type>/evaluated_<original>.json`
 - Summary: `result/validation_ASR_<attack_type>/validation_safety_summary.json`
+- Human fallback: Samples with failed or invalid automatic evaluations are manually reviewed before final aggregation; fallback values used for exception handling are not treated as valid evaluation results.
 
 ### `evaluate_toxicity.py`
 
